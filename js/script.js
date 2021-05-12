@@ -7,6 +7,8 @@ const person = "Alex";
 
 const bool = true;
 
+console.log('string'*9);
+
 
 
 
