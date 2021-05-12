@@ -7,5 +7,6 @@ const person = "Alex";
 
 const bool = true;
 
-console.log(something);
+
+
 
